@@ -1,4 +1,4 @@
-import tim
+import time
 import urllib.request
 import urllib.error
 
